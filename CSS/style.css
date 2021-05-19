@@ -20,7 +20,7 @@ li {
   list-style: none;
 }
 .header {
-  background-color: #F5B4B3;
+  background-color: blue;
   height: 50px;
   font-size: 1.5rem;
 }
@@ -57,7 +57,7 @@ ul.top_menu {
   float: left;
 }
 .side_menu li{
-  background-color: #F5B4B3;
+  background-color: blue;
   height: 6rem;
   margin-bottom: 10px;
 }
@@ -104,7 +104,7 @@ ul.top_menu {
   width: 100%;
 }
 .side_menu .point{
-  background-color: #FCECEC;
+  background-color: aqua;
 }
 .side_menu .point a{
   color: #4D4D4D;
